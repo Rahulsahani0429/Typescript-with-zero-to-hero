@@ -1,0 +1,10 @@
+"use strict";
+var num1 = 8;
+var num2 = 8;
+var num3 = 99;
+var total = (num1 + num2 + num3);
+console.log(total);
+var oct = 0o100001;
+var hexa = 0b00001;
+var binay = 0x00001;
+console.log(oct + 30);
